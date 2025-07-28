@@ -40,6 +40,12 @@ o	Power (VCC & GND) and appropriate resistors.
 2.	Connect P2 of the microcontroller to the seven-segment display.
 3.	Run the simulation and observe the digits 0 to 9 appearing sequentially.
 
+## Program:
+
+
+## Output:
+
+
 ## Result:
 The seven-segment display has been successfully interfaced with the 8051 microcontroller, and the digits 0 to 9 are displayed sequentially using Keil and Proteus.
 
